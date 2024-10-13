@@ -1,4 +1,4 @@
-# GIV_Project
+# GIV-Project
 
 Welcome to my first University Project
 
